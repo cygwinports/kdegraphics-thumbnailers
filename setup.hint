@@ -1,0 +1,4 @@
+category: Graphics KDE
+requires: libgcc1 libkdcraw20 libkdecore5 libkexiv2_10 libQtCore4 libQtGui4 libstdc++6
+sdesc: "KDE PostScript and RAW image thumbnailers"
+ldesc: "KDE graphics suite"
