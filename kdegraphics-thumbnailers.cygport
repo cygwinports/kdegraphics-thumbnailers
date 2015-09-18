@@ -1,8 +1,10 @@
 inherit kde4
 
 NAME="kdegraphics-thumbnailers"
-VERSION=14.12.3
+VERSION=15.04.3
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE PostScript and RAW image thumbnailers"
 DESCRIPTION="Part of the KDE graphics suite"
+
+REQUIRES="ghostscript"
